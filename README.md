@@ -1,2 +1,2 @@
 # Disquad
-A W.I.P Discord client
+A Discord client
